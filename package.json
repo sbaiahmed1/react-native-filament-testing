@@ -11,7 +11,11 @@
   },
   "dependencies": {
     "react": "18.3.1",
-    "react-native": "0.76.2"
+    "react-native": "0.76.2",
+    "react-native-filament": "^1.5.1",
+    "react-native-gesture-handler": "^2.21.0",
+    "react-native-reanimated": "^3.16.1",
+    "react-native-worklets-core": "beta"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
